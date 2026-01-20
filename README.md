@@ -2,6 +2,8 @@
 
 A from-scratch implementation of DDPM (Denoising Diffusion Probabilistic Models) sampling for Stable Diffusion, built for learning and experimentation.
 
+![Sample Output](outputs/sample.png)
+
 ## Overview
 
 This project implements the core mathematics of diffusion models as described in [Ho et al. (2020)](https://arxiv.org/abs/2006.11239), rather than relying on high-level library abstractions. The sampling loop manually computes each reverse diffusion step, making the underlying math explicit and hackable.
@@ -138,3 +140,4 @@ diffusion-engine/
 ## License
 
 MIT
+
