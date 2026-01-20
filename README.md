@@ -147,9 +147,11 @@ diffusion-engine/
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) (Ho et al., 2020)
 - [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) (Ho & Salimans, 2022)
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) (Rombach et al., 2022)
+- [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/) (Karagiannakos et al., 2022)
 
 ## License
 
 MIT
+
 
 
