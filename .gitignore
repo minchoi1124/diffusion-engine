@@ -13,6 +13,7 @@ ENV/
 .vscode/
 *.swp
 *.swo
+*.iml
 
 # Project
 outputs/*.png
